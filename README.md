@@ -1,219 +1,193 @@
-<h1 align="center">Hi, I'm Yağmur Elmas 👋</h1>
-
-<h3 align="center">
-Computer Engineer · Artificial Intelligence & Data Science · NLP · Unity & AR
-</h3>
+<h1 align="center">Yağmur Elmas</h1>
 
 <p align="center">
-I enjoy turning ideas and research problems into practical software — from AI and data-driven applications to augmented reality, mobile experiences, and research-oriented prototypes.
+  <b>Computer Engineer building at the intersection of AI, research and interactive software.</b>
+</p>
+
+<p align="center">
+  Artificial Intelligence • Data Science • NLP • Unity • Augmented Reality
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ya%C4%9Fmur-elmas-a6654622a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yağmur%20Elmas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://huggingface.co/yagmurelms">
-    <img src="https://img.shields.io/badge/Hugging%20Face-yagmurelms-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-yagmurelms-FFD21E?style=flat&logo=huggingface&logoColor=black">
   </a>
+  &nbsp;
   <a href="mailto:yagmurelms34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-yagmurelms34%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-## About Me
+## ✦ A little about me
 
-🎓 I'm a **Computer Engineering graduate from Çanakkale Onsekiz Mart University**.
+I am a **Computer Engineering graduate from Çanakkale Onsekiz Mart University**, where I graduated **2nd in my department** and **3rd in the Faculty of Engineering**.
 
-🏅 I graduated **2nd in the Computer Engineering Department** and **3rd in the Faculty of Engineering**.
+My work usually starts with a question:
 
-🧠 My main interests include **Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing, Explainable AI, and Audio Processing**.
+**Can this problem be solved with data, intelligent systems, or a better digital experience?**
 
-🎮 I also enjoy building interactive applications with **Unity**, especially projects involving **mobile development and Augmented Reality**.
+That question has taken me into different areas — from **natural language processing and audio-based AI systems** to **augmented reality applications, mobile experiences, and data science projects**.
 
-🔬 I have taken part in **TÜBİTAK 2209-A, TÜBİTAK 2242, and TÜBİTAK 3005** projects, working on research-oriented problems across AI, NLP, intelligent systems, and software development.
-
-🌍 I'm based in **İzmir, Türkiye**, and interested in opportunities where I can contribute to meaningful software, AI, data, and research-driven projects.
+I especially enjoy projects where research does not stay only on paper, but becomes something that can actually be tested, used, and improved.
 
 ---
 
-## What I'm Working On
+## 🧩 Things I've been building
 
-### 👶 MOMI — Explainable AI for Infant Needs Detection
+### MOMI
+**AI · Audio Processing · Explainable AI**
 
-A research project focused on detecting infant needs from baby sounds using artificial intelligence.
+An AI-based system designed to identify infant needs from baby sounds.
 
-The goal is to design a system that is:
+The project focuses on building a solution that is:
 
-- Explainable
-- Privacy-conscious
-- Able to operate without an internet connection
-- Suitable for real-world use with audio-based classification
+- explainable,
+- able to work without an internet connection,
+- privacy-conscious,
+- and suitable for real-world use.
 
-My work involves topics such as **artificial intelligence, audio processing, model development, and explainable AI**.
-
----
-
-### 🌱 Moistalks — Smart & Sustainable Support System
-
-A **TÜBİTAK 2209-A** project developed with the MotoNova team.
-
-The project combines a physical system with a mobile control application to create a more sustainable and practical support solution.
-
-🏆 Our project was awarded **2nd place in the TÜBİTAK 2242 competition**.
-
-I contributed to the project as the **Team Captain**, taking part in both the development process and project coordination.
+I am developing the project as **Team Captain** within a TÜBİTAK 2209-A study.
 
 ---
 
-## Research Experience
+### Moistalks
+**Sustainability · Mobile Application · Smart System**
 
-### 🧠 Natural Language Processing · TÜBİTAK 3005
+A sustainable support system combining a physical device with a mobile control application.
 
-I work as a **scholarship researcher** in a TÜBİTAK 3005 project focused on:
+I worked as **Team Captain of the MotoNova team** throughout the project.
 
-> Rethinking online engagement strategies for advocacy of controversial topics through comparative analysis of opposing-view networks.
+🏆 **2nd Place — TÜBİTAK 2242**
 
-My work in the project is mainly related to:
-
-- Natural Language Processing
-- Data analysis
-- Text-based research
-- Comparative analysis
-- Research-oriented software workflows
+The project also gave me experience in turning an early-stage idea into a structured engineering project with both technical and team responsibilities.
 
 ---
 
-## Industry Experience
+### AR Plant Experience
+**Unity · C# · Augmented Reality**
 
-### 🌿 NaraXR — Software Development Intern
+During my internship at **NaraXR**, I developed an interactive AR mobile experience focused on plant care.
 
-During my internship at **NaraXR**, I developed an interactive mobile experience using **Unity and Augmented Reality**.
+The application included:
 
-The project included:
+- QR-based scanning,
+- virtual plant creation in real environments,
+- AR object interaction,
+- and Unity-based mobile development.
 
-- QR-based scanning
-- Creating virtual plants in a real-world environment
-- User interaction with AR objects
-- Mobile game mechanics
-- Unity and C# development
-
-This experience helped me explore how software can connect digital environments with real-world user interaction.
+This project became one of my first experiences combining software development with physical-world interaction.
 
 ---
 
-### 📊 Kale Seramik — Data Science Intern
+### NLP Research
+**Natural Language Processing · Data Analysis · TÜBİTAK 3005**
 
-During my data science internship at **Kale Seramik**, I worked with data analysis and machine learning technologies.
+I take part in a TÜBİTAK 3005 research project as a **scholarship researcher**.
 
-I gained experience with:
+My work is related to the analysis of online engagement strategies across opposing-view networks and includes topics such as:
 
-- Python
-- Power BI
-- Data analysis
-- Machine learning models
-- Prediction workflows
-
-I also developed a **Python-based translation application** and gained experience working as part of a professional development team.
+`NLP` · `text processing` · `data analysis` · `comparative research`
 
 ---
 
-## Selected GitHub Projects
+## 🏢 From classroom to industry
 
-### 🌱 PlantGm
+### NaraXR
+`Software Development Intern`
 
-An Augmented Reality plant interaction project developed with **Unity and C#**.
+Worked with **Unity, C# and Augmented Reality** while developing an interactive mobile AR application.
 
-The project explores AR-based interaction and represents my early work in combining game development with real-world environments.
+### Kale Seramik
+`Data Science Intern`
 
----
+Worked on:
 
-### ☕ JavaProjects
+`Python` · `Power BI` · `Data Analysis` · `Machine Learning`
 
-A collection of projects I developed while improving my knowledge of **Java and object-oriented programming**.
-
-These projects reflect my progression from programming fundamentals toward more structured software development.
-
----
-
-### 🎮 MemorySaveGame
-
-One of my first game development projects created with **Java**.
-
-It represents an early step in my journey into software and game development.
+I also developed a Python-based translation application and gained experience working within a professional project team.
 
 ---
 
-### 📚 Algoritma-Analizi
+## 🛠 My toolbox
 
-A collection of algorithm analysis exercises and implementations created during my Computer Engineering education.
-
----
-
-## Tech Stack
-
-### Languages
+### Programming
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### AI, Data & Research
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js" />
 </p>
 
 ### Development
 
 <p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=unity,react,git,github" />
 </p>
 
----
+### AI & Data
 
-## Areas I'm Interested In
-
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Explainable AI
-- Audio Processing
-- Data Science
-- Unity & Game Development
-- Augmented Reality
-- Mobile Applications
-- Human-centered intelligent systems
+`Machine Learning`
+`Natural Language Processing`
+`Explainable AI`
+`Data Science`
+`Audio Processing`
+`Power BI`
 
 ---
 
-## GitHub Stats
+## 🔎 Around my GitHub
+
+Some of the projects currently available here reflect different stages of my software journey.
+
+**PlantGm**  
+Unity and C# based Augmented Reality project.
+
+**JavaProjects**  
+Projects created while developing my Java and object-oriented programming skills.
+
+**MemorySaveGame**  
+One of my earlier Java game development projects.
+
+**Algoritma-Analizi**  
+Algorithm analysis exercises and implementations from my Computer Engineering studies.
+
+My repositories are gradually evolving as I add more of my recent work in **AI, research and software development**.
+
+---
+
+## 📈 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Elmasyamur&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmasyamur&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elmasyamur&show_icons=true&hide_border=true&rank_icon=github" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmasyamur&layout=compact&hide_border=true" height="165">
 </p>
 
 ---
 
-## Let's Connect
+## 🌱 Where I'm heading
 
-I'm interested in working on projects where **software engineering, artificial intelligence, data, research, and interactive technologies** come together.
+I want to keep building projects that connect:
 
-I'm especially interested in opportunities where I can continue learning while contributing to real-world products and research-driven solutions.
+**research → software → real-world problems**
 
-📧 **Email:** yagmurelms34@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yağmur-elmas-a6654622a](https://www.linkedin.com/in/ya%C4%9Fmur-elmas-a6654622a/)  
-🤗 **Hugging Face:** [huggingface.co/yagmurelms](https://huggingface.co/yagmurelms)
+My current interests are centered around artificial intelligence, NLP, explainable systems, audio processing, data science and interactive technologies.
+
+I am also continuing to improve my software engineering skills by building projects beyond academic work.
+
+---
+
+<p align="center">
+  <b>Find me elsewhere</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ya%C4%9Fmur-elmas-a6654622a/">LinkedIn</a>
+  •
+  <a href="https://huggingface.co/yagmurelms">Hugging Face</a>
+  •
+  <a href="mailto:yagmurelms34@gmail.com">Email</a>
+</p>
